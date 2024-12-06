@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Jersey+10&display=swap');
+.app-container{
+  display: flex;
+}
+.container2{
+  width: 100%;
+}
+.sidebar{
+  min-height: 800px;
+}
+.post-card{
+  margin: 20px 50px;
+}
+.hastag{
+  margin: 0 5px;
+}
+.reaction{
+  margin: 15px 0 0 5px ;
+  height: 2.5rem;
+  width: 2.5rem;
+  position: sticky;
+  right: 95%;
+}
+.like{
+  position: relative;
+    left: 12.5%;
+    display: inline-flex;
+    /* width: 30px; */
+    min-width: 27px;
+    /* flex-direction: row; */
+    justify-content: flex-end;
+    /* align-items: stretch; */
+}
+.create-post{
+  width: 80%;
+  margin-top: 50px;
+  margin-left: 10%;
+}
+.userid{
+  font-family: "Jersey 10", sans-serif;;
+  font-size: 27px;
+  font-weight: bolder;
+  color: #6c6c6c;
+  margin-left: 20px;
+}
+
+
